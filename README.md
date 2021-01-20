@@ -1,2 +1,2 @@
 # git_test
-This is a lesson in the Odin project
+This is hjerting's first git project as part of the Odin Project tutorial.
